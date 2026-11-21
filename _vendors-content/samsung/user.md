@@ -1,4 +1,4 @@
----
+https://zufile.com/f/kaFrGUhymJ?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo&gidzl=pqQVVYpi64d4NfrmBFOGJSnVatOpzXPFsWp1S6ho51ZQMvHpRgGPITvUb70wyKDFYLwJTp7HdBGEAkmSHW---
 manufacturer: samsung
 
 ---
